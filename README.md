@@ -25,7 +25,7 @@ Source code for the game is maintain in GitHub.  To access source code go to:
 All code can be downloaded to your PC.  Save all files in one directory, **however maintain the directory structure as stored on GitHub**.  To start the test execute app using index.html.
 
 Alternatively, the source code does not have to be down loaded.  The game can be run directly from GitHub.  To run the game from GitHub click on this link:
-<https://kwpressley.github.io/Freereader_Projects/>
+<https://kwpressley.github.io/Feedreader_Projects/>
 
 
 ## Review the results of the Jasmine tests:
