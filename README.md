@@ -20,12 +20,12 @@ Lastly there is a "jasmine" folder that contains the Jasmine library and spec fo
 ## How to run test:
 
 Source code for the game is maintain in GitHub.  To access source code go to:
-<https://github.com/KWPressley/Feedreader_Project>
+<https://github.com/KWPressley/Feedreader_Projects>
 
 All code can be downloaded to your PC.  Save all files in one directory, **however maintain the directory structure as stored on GitHub**.  To start the test execute app using index.html.
 
 Alternatively, the source code does not have to be down loaded.  The game can be run directly from GitHub.  To run the game from GitHub click on this link:
-<https://kwpressley.github.io/Freereader_Project/>
+<https://kwpressley.github.io/Freereader_Projects/>
 
 
 ## Review the results of the Jasmine tests:
@@ -45,7 +45,7 @@ The following must be included in the index.html file in the <head> section:
 In the <body> section the following Jasmine script must be included:
 <script src="jasmine/spec/feedreader.js"></script>
 
-**Note:  these Jasmine script files have already been added to the index.html file.** 
+**Note:  these Jasmine script files have already been added to the index.html file.**
 
 :+1:
 #### Acknowledgements
