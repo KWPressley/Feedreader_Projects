@@ -32,7 +32,7 @@ Alternatively, the source code does not have to be down loaded.  The game can be
 
 The FeedReader app will execute and render the reader page.   Jasmine will add the results from the defined test to the bottom of the rendered page.  Scroll to the bottom of the page and look for hopefully all Green (positive) results.   Any Red results means the test failed and the necessary files must be corrected to change the Red result to Green results.
 
-### Required for executing Game
+### Required for executing test
 There is no special software required.  All you need is a modern browser that can support ES6 JavaScript.
 
 The following must be included in the index.html file in the <head> section:
